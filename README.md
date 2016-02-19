@@ -1,2 +1,3 @@
 # spring-intro
-Short introduction into Spring Framework
+Short introduction into Spring Framework container with examples.
+Includes XML, Componentn Scan and Java Config.
